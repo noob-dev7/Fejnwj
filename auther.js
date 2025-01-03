@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://hdhub4u.tires",
     "https://www.vegamovie.blog",
     "https://news.dktheme.online",
-    "https://movieshd4u.in",
+    "https://neriamovies.blogspot.com",
     "https://vega-movies.news",
         "http://hindidubmovies4u.site"
 ];
