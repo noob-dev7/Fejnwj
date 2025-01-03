@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
     } else {
         hideSemanticTags();
         alert('You need to verify your domain to use this theme. Please contact support.');
-        document.body.innerHTML = `Your License Is Not Active. Contact <a href="https://t.me/dhanjeerider" target="_blank">DHANJEE Rider</a> to get a license.`;
+        document.body.innerHTML = `Your License Is Not Active. Contact <a href="https://t.me/smnxowner" target="_blank">SM Network</a> to get a license.`;
     }
 
   
