@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "https://www.timestoryaxom.in",
     "https://moviesmod4u.com",
     "https://Thevegamovies.life", "https://solution-manualspdf.blogspot.com",
-    "https://testyyyyrr4.blogspot.com",
+    "https://smstream4u.blogspot.com",
     "https://desiremovies.boutique",
     "https://orgmovies.store",
     "https://desiremovies.store",
